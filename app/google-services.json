@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255408767637",
+    "firebase_url": "https://edueval-u-1281c.firebaseio.com",
+    "project_id": "edueval-u-1281c",
+    "storage_bucket": "edueval-u-1281c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255408767637:android:fef1063683534d13b0519c",
+        "android_client_info": {
+          "package_name": "com.app.micro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255408767637-vse3lvujil20ljjno4lp71dtuee9ao28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUY8V2Iev1eWCQ-vKrki6eIuZvsYPs7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255408767637-vse3lvujil20ljjno4lp71dtuee9ao28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
